@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitJSON</string>
+    <string name="BASE_IMG_URL">https://image.tmdb.org/t/p/w500/</string>
+</resources>
